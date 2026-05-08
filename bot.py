@@ -19,7 +19,7 @@ from ta.trend import SMAIndicator, MACD
 # ===== CONFIG =====
 API_KEY = "YOUR_API_KEY"
 SECRET_KEY = "YOUR_SECRET_KEY"
-BASE_URL = "https://paper-api.alpaca.markets"
+BASE_URL = "base url"
 
 # ===== STRATEGY SETTINGS =====
 MAX_POSITIONS = 6
