@@ -125,6 +125,23 @@ trades.csv
 ```
 
 ---
+## 🧪 QuantConnect Research Version
+
+A QuantConnect implementation of the strategy is also included in this repository.
+
+The QuantConnect version was used for:
+
+* historical testing
+* strategy validation
+* parameter experimentation
+* performance evaluation before paper deployment
+
+Files related to QuantConnect can be found in:
+
+```text id="yiczyi"
+quantconnect/
+```
+
 
 ## ⚠️ Disclaimer
 
