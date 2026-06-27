@@ -1,6 +1,6 @@
-# Alpaca Algorithmic Trading Bot 📈🚀
+# Alpaca Algorithmic Trading Bot 
 
-## 📌 Overview
+##  Overview
 
 This project is an automated algorithmic paper trading bot built using the Alpaca API.
 
@@ -16,7 +16,7 @@ The project was built to explore:
 
 ---
 
-## ⚙️ Features
+##  Features
 
 * Automated paper trading using Alpaca API
 * Dynamic stock universe selection
@@ -31,7 +31,7 @@ The project was built to explore:
 
 ---
 
-## 🧠 Trading Strategy
+##  Trading Strategy
 
 The bot combines multiple technical indicators for trade confirmation:
 
@@ -61,7 +61,7 @@ strategy_explanation.md
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Alpaca API
@@ -72,44 +72,12 @@ strategy_explanation.md
 
 ---
 
-## 📁 Project Structure
+---
 
-```text
-alpaca-paper-trading-bot/
-│
-├── bot.py
-├── strategy_explanation.md
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
 
 ---
 
-## 🚀 Setup
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Add your Alpaca paper trading API keys inside:
-
-```python
-API_KEY = "YOUR_API_KEY"
-SECRET_KEY = "YOUR_SECRET_KEY"
-```
-
-Run the bot:
-
-```bash
-python bot.py
-```
-
----
-
-## 📊 Performance Tracking
+##  Performance Tracking
 
 The bot tracks:
 
@@ -125,7 +93,7 @@ trades.csv
 ```
 
 ---
-## 🧪 QuantConnect Research Version
+##  QuantConnect Research Version
 
 A QuantConnect implementation of the strategy is also included in this repository.
 
@@ -143,7 +111,7 @@ quantconnect/
 ```
 
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is intended for educational and paper trading purposes only.
 
@@ -151,7 +119,7 @@ It is not financial advice and should not be used for live trading without prope
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Backtesting engine
 * Dashboard visualization
@@ -162,7 +130,5 @@ It is not financial advice and should not be used for live trading without prope
 
 ---
 
-## 👤 Author
 
 Built as part of a personal learning journey focused on automation, trading systems, and quantitative strategy development.
-
